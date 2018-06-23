@@ -25,6 +25,8 @@ These steps will take you though getting a React App set up with ```create-react
 
 2. Create a new repository with **NO** README.
 
+*This will create an empty repository*
+
 ![Creating a new repo](https://user-images.githubusercontent.com/11478714/41811567-c09d4934-76d7-11e8-8a0a-7fa0f951cb2a.png)
 
 3. Follow the steps under **…or create a new repository on the command line**.
