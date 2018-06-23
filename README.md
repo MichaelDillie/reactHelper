@@ -1,6 +1,6 @@
 # Steps To Setting Up A React App With A GitHub Repo
 
-These steps will take you though getting a React set up with ```create-react-app```, and adding the app to a GitHub repository.
+These steps will take you though getting a React App set up with ```create-react-app```, and adding the app to a GitHub repository.
 
 ## Creating an new React App
 *In The Terminal Run These Commands* 
